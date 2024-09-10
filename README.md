@@ -1,2 +1,2 @@
-# OracleAcademyAssignments
-This repository is meant to store work for Oracle Academy assignments from the Java Foundations course. 
+# CMSC203 Assignments
+This repository is meant to store work for CMSC203
